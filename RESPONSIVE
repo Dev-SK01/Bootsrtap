@@ -1,0 +1,91 @@
+  RESPONSIVE WEB DESIGN
+  
+  TYPOGYAPHY CLASS
+  *TEXT-SUCESS UGE BG FOR BACKGROUND
+  *TEXT-DANGER
+  *TEXT-INFO
+  *TEXT-WARNING
+  TEXT ALIGNMENT 
+  JUSTIFY-LEFT,CENTER,RIGHT
+  
+  LIST 
+  LIST-INLINE
+  LIST-UNSTYLED
+  
+  <CODE> FOR CODE
+  <MARK> FOR MARK
+  
+  
+  
+  TABLE CLASS
+   TABEL-HOVERED
+   TABLE
+   TABLE-RESPONSIVE
+   TABEL-BORDERED 
+   TABLE-STRIPED
+   
+   
+   IMAGE CLASS
+   
+   ROUNDED-CORNER
+   ROUND
+   THUMBNAIL
+   IMAGE-RESPONSIVE
+   RESPONSIVE-EMBEDED  EMBED-RESPONSIVE-ITEM 16by4 4by3
+   
+   
+   JUMBOTRON CLASS
+    BIG TITTLE
+    
+    JUBRTRON INSIDE,OUTSIDE  THE CONTAINER
+    PAGE-HEADER
+    
+    
+    
+    WELL CLASS -->  ADDS TO AN ELEMENT ROUNDED BORDER WITH GREY BG AND SOME PADDING
+    
+    WELL
+    WELL-SM
+    WELL-LG 
+    
+    
+    
+    ALERTS CLASS --> MESSAGE BOX
+    
+    ALERT
+   ALERT  ALERT-SUCESS
+   ALERT ALERT-DANGER
+   ALERT  ALERT-WARNING
+   ALERT ALERT-INFO
+    
+    BUTTONS CLASS BTN IS MAIN CLASS BTN-SM
+     DEFAULT  LARGE
+     WARNING  MEDIUM
+     DANGER   SMALL
+     LINK     XSMALL
+     INFO     BLOCK-LEVEL-BTN
+     ACTIVE OR DISABLED     
+  BUTTON GROUP VERTICAL AND HORIZONTAL ,BTN-GROUP-JUSTIFIED
+  
+  
+  NESTING BTN GRP
+  
+  DROPDOWN-TOGGLE DATA TOGGLE="TOGGLE"
+  DROPDOWN MENU ROLE="MENU"
+  
+  <!---   Gylphicon  in bootstrap         -->
+  need to use span tag class=" glyphicon glyphicon-name"
+  you need more glyph icon gotto getbootstrap components page 
+  
+  
+  BADGES AND LABLE IN BOOTS
+  
+  BADGES --> BADHES ARE Indicate number like notification 
+  Lables --> its is used for tell the aditional informaiton about the tag 
+  
+                                    ********* BOOTSTRAP-5.2X****************
+                       
+  
+  
+  
+  
